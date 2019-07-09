@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Dry_Executions" parallel="tests" thread-count="10" verbose="1">
+    <parameter name="browser" value="chrome"/>
+    <parameter name="environment" value="qa1"/>
+    <parameter name="platform" value="Desktop"/>
+    <parameter name="banner" value="safeway"/>
+
+    <test name="Test-1">
+        <classes>
+            <class name="com.testProject.testSuites.smoke.SIGN01" />
+
+        </classes>
+    </test>
+
+</suite>
+

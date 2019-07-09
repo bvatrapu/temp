@@ -1,0 +1,9 @@
+2019-03-11 11:56:34 INFO  Log:24 - SIGN01 :: TestScript is Start
+2019-03-11 11:56:34 INFO  Log:12 - ------------------------------
+2019-03-11 11:56:34 INFO  Log:13 - Mehtod# SafewaySignInPage:::'gotoSafewaySignInPage' :: is Start
+2019-03-11 11:56:34 INFO  Log:24 - Navigating to: https://ngcp-qa1.safeway.com/CMS/account/login/?FullSite=Y
+2019-03-11 11:56:45 INFO  Log:24 - Navigated URL is :SafewaySignInPageUrl
+2019-03-11 11:56:45 INFO  Log:18 - Mehtod# SafewaySignInPage:::'gotoSafewaySignInPage' :: is End
+2019-03-11 11:56:45 INFO  Log:19 - ------------------------------
+2019-03-11 11:57:16 INFO  Log:24 - SIGN01 :: TestScript is End
+2019-03-11 11:57:16 INFO  Log:24 - ===================================================================

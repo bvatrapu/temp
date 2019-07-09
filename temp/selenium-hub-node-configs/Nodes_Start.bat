@@ -1,0 +1,1 @@
+java -Dwebdriver.chrome.driver=%CD%\DRIVERS\chromedriver.exe -Dwebdriver.ie.driver=%CD%\DRIVERS\IEDriverServer.exe -Dwebdriver.gecko.driver=%CD%\DRIVERS\geckodriver.exe -jar %CD%\DRIVERS\selenium-server-standalone-3.11.0.jar -role node -nodeConfig %CD%\Config\GridNode.json

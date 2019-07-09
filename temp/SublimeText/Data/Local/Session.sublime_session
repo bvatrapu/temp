@@ -1,0 +1,400 @@
+{
+	"folder_history":
+	[
+		"/C/Users/bvatrapu/AppData/Roaming/SAT_Tool/Projects/TestProject"
+	],
+	"last_version": 3176,
+	"last_window_id": 3,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 561.333333333,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/C/Users/bvatrapu/AppData/Roaming/SAT_Tool/Projects/etrt/src/test/java/com/testProject/testPages/SafewaySignIsnPage.java",
+				"/C/Users/bvatrapu/AppData/Roaming/SAT_Tool/Projects/etrt/src/test/java/com/testProject/testPages/SafewaySignInPage.java",
+				"/C/Users/bvatrapu/AppData/Roaming/SAT_Tool/Projects/TestProject/src/test/java/com/testProject/testPages/SafewayRegistrationPage.java",
+				"/C/Bharath_Workspace/Github/SAP/SmartAutomationPlatform/src/main/java/com/SAPTOOL/temp/selenium-hub-node-configs/Config/hubConfig.json",
+				"/C/Users/bvatrapu/AppData/Roaming/SAT_Tool/Projects/PortalAutomation/src/test/resources/testExecution/Dry_Parallel.xml",
+				"/C/Users/bvatrapu/AppData/Roaming/SAT_Tool/Projects/PortalAutomation/src/test/java/com/testProject/testPages/SafewaySignInPage.java",
+				"/C/Users/bvatrapu/AppData/Roaming/SAT_Tool/Projects/PortalAutomation/src/test/java/com/testProject/testPages/SafewayRegistrationPage.java",
+				"/C/Users/bvatrapu/AppData/Roaming/SAT_Tool/Projects/Portal/src/test/java/com/testProject/testPages/SafewaySignInPage.java",
+				"/C/Users/bvatrapu/AppData/Roaming/SAT_Tool/Projects/Portal/src/test/resources/testExecution/Dry_Parallel.xml",
+				"/C/Users/bvatrapu/AppData/Roaming/SAT_Tool/Projects/TestProject/src/test/java/com/testProject/testPages/SafewaySignInPage.java",
+				"/C/Users/bvatrapu/AppData/Roaming/SAT_Tool/Projects/Phani/src/test/java/com/testProject/testPages/SafewaySignInPage.java",
+				"/C/Users/bvatrapu/AppData/Roaming/SAT_Tool/Projects/TestProject/src/test/java/com/testProject/testPages/SignInPage.java",
+				"/C/Users/bvatrapu/AppData/Roaming/SAT_Tool/Projects/PortalAutomation/src/test/java/com/testProject/testPages/SignInPage.java",
+				"/C/Users/bvatrapu/AppData/Roaming/SAT_Tool/Projects/TestProject/src/test/java/com/testProject/testPages/RegistrationPage.java",
+				"/C/Bharath_Workspace/Content_Portal_Automation/Portal_Automation/src/test/java/com/albertsons/portal/automation/base/ConfigTestBase.java",
+				"/C/Users/bvatrapu/AppData/Roaming/SAT_Tool/Projects/test3456/src/test/java/com/testProject/testPages/SignInPage.java"
+			],
+			"find":
+			{
+				"height": 40.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 27.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 50.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1059.33333333
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/C/Users/bvatrapu/AppData/Roaming/SAT_Tool/Projects/testprojest/src/test/java/com/testProject/testPages/SignInPagePage.java",
+					"settings":
+					{
+						"buffer_size": 7222,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/C/Users/bvatrapu/AppData/Roaming/SAT_Tool/Projects/BharathAutomaiton/src/test/java/com/testProject/testSuites/regression/REG01.java",
+				"/C/Users/bvatrapu/AppData/Roaming/SAT_Tool/Projects/BharathAutomaiton/src/test/java/com/testProject/testPages/SignInPage.java",
+				"/C/Users/bvatrapu/AppData/Roaming/SAT_Tool/Projects/PortalAutomation/src/test/java/com/testProject/testPages/SignInPage.java",
+				"/C/Users/bvatrapu/AppData/Roaming/SAT_Tool/Projects/Portal/src/test/java/com/testProject/testPages/SignInPage.java",
+				"/C/Users/bvatrapu/AppData/Roaming/SAT_Tool/Projects/PortalAutomation/src/test/java/com/testProject/testPages/HomePage.java",
+				"/C/Users/bvatrapu/AppData/Roaming/SAT_Tool/Projects/Test_project/src/test/java/com/testProject/testPages/SignInPage.java",
+				"/C/Users/bvatrapu/AppData/Roaming/SAT_Tool/Projects/bharatj/src/test/java/com/testProject/testPages/SignInPage.java",
+				"/C/Users/bvatrapu/AppData/Roaming/SAT_Tool/Projects/TestProject/src/test/java/com/testProject/testPages/testPage.java",
+				"/C/Users/bvatrapu/AppData/Roaming/SAT_Tool/Projects/TestProject/src/test/java/com/testProject/testPages/SingInPage.java",
+				"/C/Users/bvatrapu/AppData/Roaming/SAT_Tool/Projects/Test_Project/src/test/java/com/testProject/testPages/SafewaySignInPage.java",
+				"/C/Users/bvatrapu/AppData/Roaming/SAT_Tool/Projects/PORTAL01/src/test/java/com/testProject/testPages/SafewaySignInPage.java",
+				"/C/Users/bvatrapu/AppData/Roaming/SAT_Tool/Projects/BharathTest/src/test/java/com/testProject/testPages/SafewaySignInPage.java",
+				"/C/Users/bvatrapu/AppData/Roaming/SAT_Tool/Projects/BharathProject/src/test/java/com/testProject/testPages/SafewaySignInPage.java",
+				"/C/Users/bvatrapu/AppData/Roaming/SAT_Tool/Projects/TestProject/src/test/java/com/testProject/testPages/SafewaySignInPage.java",
+				"/C/Users/bvatrapu/AppData/Roaming/SAT_Tool/Projects/TEST_PRO/src/test/java/com/testProject/testPages/SafewaySignInPage.java",
+				"/C/Users/bvatrapu/AppData/Roaming/SAT_Tool/Projects/PORTAL_BHARATH/src/test/java/com/testProject/testPages/SafewaySignInPage.java",
+				"/C/Users/bvatrapu/AppData/Roaming/SAT_Tool/Projects/etrt/src/test/java/com/testProject/testPages/SafewaySignIsnPage.java",
+				"/C/Users/bvatrapu/AppData/Roaming/SAT_Tool/Projects/etrt/src/test/java/com/testProject/testPages/SafewaySignInPage.java",
+				"/C/Users/bvatrapu/AppData/Roaming/SAT_Tool/Projects/TestProject/src/test/java/com/testProject/testPages/SafewayRegistrationPage.java",
+				"/C/Bharath_Workspace/Github/SAP/SmartAutomationPlatform/src/main/java/com/SAPTOOL/temp/selenium-hub-node-configs/Config/hubConfig.json",
+				"/C/Users/bvatrapu/AppData/Roaming/SAT_Tool/Projects/PortalAutomation/src/test/resources/testExecution/Dry_Parallel.xml",
+				"/C/Users/bvatrapu/AppData/Roaming/SAT_Tool/Projects/PortalAutomation/src/test/java/com/testProject/testPages/SafewaySignInPage.java",
+				"/C/Users/bvatrapu/AppData/Roaming/SAT_Tool/Projects/PortalAutomation/src/test/java/com/testProject/testPages/SafewayRegistrationPage.java",
+				"/C/Users/bvatrapu/AppData/Roaming/SAT_Tool/Projects/Portal/src/test/java/com/testProject/testPages/SafewaySignInPage.java",
+				"/C/Users/bvatrapu/AppData/Roaming/SAT_Tool/Projects/Portal/src/test/resources/testExecution/Dry_Parallel.xml",
+				"/C/Users/bvatrapu/AppData/Roaming/SAT_Tool/Projects/Phani/src/test/java/com/testProject/testPages/SafewaySignInPage.java",
+				"/C/Users/bvatrapu/AppData/Roaming/SAT_Tool/Projects/TestProject/src/test/java/com/testProject/testPages/SignInPage.java",
+				"/C/Users/bvatrapu/AppData/Roaming/SAT_Tool/Projects/TestProject/src/test/java/com/testProject/testPages/RegistrationPage.java",
+				"/C/Bharath_Workspace/Content_Portal_Automation/Portal_Automation/src/test/java/com/albertsons/portal/automation/base/ConfigTestBase.java",
+				"/C/Users/bvatrapu/AppData/Roaming/SAT_Tool/Projects/test3456/src/test/java/com/testProject/testPages/SignInPage.java"
+			],
+			"find":
+			{
+				"height": 40.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/C/Users/bvatrapu/AppData/Roaming/SAT_Tool/Projects/testprojest/src/test/java/com/testProject/testPages/SignInPagePage.java",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 7222,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										5409,
+										5419
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Java/Java.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 3618.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 27.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,2,3,-1,-1,-1,-1,666,213,47,1287",
+			"project": "",
+			"replace":
+			{
+				"height": 50.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 1,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
